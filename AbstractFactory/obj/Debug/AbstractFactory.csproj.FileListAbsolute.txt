@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
