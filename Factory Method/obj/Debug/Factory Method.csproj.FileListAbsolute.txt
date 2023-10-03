@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing Patterns\Factory Method\bin\Debug\Factory Method.exe.config
+C:\Users\ugrst\source\repos\Desing Patterns\Factory Method\bin\Debug\Factory Method.exe
+C:\Users\ugrst\source\repos\Desing Patterns\Factory Method\bin\Debug\Factory Method.pdb
+C:\Users\ugrst\source\repos\Desing Patterns\Factory Method\obj\Debug\Factory Method.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing Patterns\Factory Method\obj\Debug\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing Patterns\Factory Method\obj\Debug\Factory Method.exe
+C:\Users\ugrst\source\repos\Desing Patterns\Factory Method\obj\Debug\Factory Method.pdb
