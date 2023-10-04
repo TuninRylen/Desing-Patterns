@@ -5,13 +5,15 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{B35230D0-B3A8-4CAD-8FA0-2DCAD5D8D256}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Method", "Factory Method\Factory Method.csproj", "{F7EE868E-8DF2-493E-9128-3A4AE4B52335}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "Factory Method\FactoryMethod.csproj", "{F7EE868E-8DF2-493E-9128-3A4AE4B52335}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{38403882-1C2B-45C1-97B1-C46350249E1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{82F334B7-1285-4E59-9409-6D5045B62B08}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{18755B7F-5087-48AF-90BA-940F3660544A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{599CE11B-7596-43DC-9D36-38712D64A401}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{18755B7F-5087-48AF-90BA-940F3660544A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18755B7F-5087-48AF-90BA-940F3660544A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18755B7F-5087-48AF-90BA-940F3660544A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599CE11B-7596-43DC-9D36-38712D64A401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599CE11B-7596-43DC-9D36-38712D64A401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599CE11B-7596-43DC-9D36-38712D64A401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599CE11B-7596-43DC-9D36-38712D64A401}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
