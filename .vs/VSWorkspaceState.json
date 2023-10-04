@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Builder"
   ],
-  "SelectedNode": "\\Desing Patterns.sln",
+  "SelectedNode": "\\Builder\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
