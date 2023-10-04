@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\Observer\bin\Debug\Observer.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Observer\bin\Debug\Observer.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Observer\obj\Debug\Observer.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Observer\obj\Debug\Observer.pdb

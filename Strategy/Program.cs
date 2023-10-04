@@ -47,7 +47,7 @@ namespace Strategy
 
         public void SaveCredit()
         {
-            Console.WriteLine("Costomer manager business");
+            Console.WriteLine("Customer manager business");
             CreditCalculatorBase.Calculate();
         }
     }
