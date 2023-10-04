@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\Builder\bin\Debug\Builder.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Builder\bin\Debug\Builder.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Builder\obj\Debug\Builder.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Builder\obj\Debug\Builder.pdb

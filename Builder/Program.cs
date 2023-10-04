@@ -11,6 +11,21 @@ namespace Builder
     {
         static void Main(string[] args)
         {
+            ProductDirector director = new ProductDirector();
+            var builder = new OldCustomerProductBuilder();
+            director.GenerateProduct(builder);
+            var model = builder.GetModel();
+
+            Console.WriteLine(model.Id);
+            Console.WriteLine(model.CategoryName);
+            Console.WriteLine(model.DiscountApplied);
+            Console.WriteLine(model.DiscountedPrice);
+            Console.WriteLine(model.ProductName);
+            Console.WriteLine(model.UnitPrice);
+
+            Console.Read();
+
+
         }
 
         class ProductViewModel
@@ -77,15 +92,14 @@ namespace Builder
                 model.DiscountApplied = false;
             }
         }
-   
 
-    }
-
-    public class ProductDirector
-    {
-        public void GenereteProduct(ProductBuilder builder)
+        class ProductDirector
         {
-
+            public void GenerateProduct(ProductBuilder product)
+            {
+                product.GetProductData();
+                product.ApplyDiscount();
+            }
         }
     }
 }
