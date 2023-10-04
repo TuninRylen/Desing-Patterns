@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Adapter\obj\Debug\Adapter.pdb

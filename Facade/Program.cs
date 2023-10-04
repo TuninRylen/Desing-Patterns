@@ -78,7 +78,7 @@ namespace Facade
     {
         public ILogging Logging;
         public ICaching Caching;
-        public Authorize Authorize;
+        public IAuthorize Authorize;
 
         public CrossCuttingConcernsFacade()
         {
