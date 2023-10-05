@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\NullObject\bin\Debug\NullObject.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\NullObject\bin\Debug\NullObject.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\NullObject\bin\Debug\NullObject.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\NullObject\obj\Debug\NullObject.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\NullObject\obj\Debug\NullObject.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\NullObject\obj\Debug\NullObject.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\NullObject\obj\Debug\NullObject.pdb

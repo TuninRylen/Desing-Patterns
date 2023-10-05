@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\Multiton\bin\Debug\Multiton.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\Multiton\bin\Debug\Multiton.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Multiton\bin\Debug\Multiton.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\Multiton\obj\Debug\Multiton.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Multiton\obj\Debug\Multiton.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Multiton\obj\Debug\Multiton.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Multiton\obj\Debug\Multiton.pdb

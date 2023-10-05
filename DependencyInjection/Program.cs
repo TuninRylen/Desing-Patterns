@@ -12,7 +12,7 @@ namespace DependencyInjection
         static void Main(string[] args)
         {
             IKernel kernel = new StandardKernel();
-            kernel.Bind<IProductDal>().To<EfProductDal>().InSingletonScope(); ;
+            kernel.Bind<IProductDal>().To<EfProductDal>().InSingletonScope();
 
             ProductManager productManager = new ProductManager(kernel.Get<IProductDal>());
             productManager.Save();
