@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\Memento\bin\Debug\Memento.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\Memento\bin\Debug\Memento.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Memento\bin\Debug\Memento.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\Memento\obj\Debug\Memento.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Memento\obj\Debug\Memento.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Memento\obj\Debug\Memento.pdb

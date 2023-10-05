@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{7379F17C-6F42-4440-A8C6-5254A5895AB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{88F87FF1-0ACA-49EE-8604-3D95D082D4BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{63C41FFA-4751-457E-A9E2-4FE22226DA53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{7379F17C-6F42-4440-A8C6-5254A5895AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7379F17C-6F42-4440-A8C6-5254A5895AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7379F17C-6F42-4440-A8C6-5254A5895AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F87FF1-0ACA-49EE-8604-3D95D082D4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F87FF1-0ACA-49EE-8604-3D95D082D4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F87FF1-0ACA-49EE-8604-3D95D082D4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F87FF1-0ACA-49EE-8604-3D95D082D4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C41FFA-4751-457E-A9E2-4FE22226DA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C41FFA-4751-457E-A9E2-4FE22226DA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C41FFA-4751-457E-A9E2-4FE22226DA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C41FFA-4751-457E-A9E2-4FE22226DA53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

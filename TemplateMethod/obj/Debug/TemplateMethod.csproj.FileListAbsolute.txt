@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\TemplateMethod\obj\Debug\TemplateMethod.pdb
