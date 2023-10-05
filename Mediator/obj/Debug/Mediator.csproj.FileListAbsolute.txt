@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\Mediator\bin\Debug\Mediator.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Mediator\bin\Debug\Mediator.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Mediator\obj\Debug\Mediator.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Mediator\obj\Debug\Mediator.pdb

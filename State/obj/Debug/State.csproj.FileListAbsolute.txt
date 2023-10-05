@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\State\bin\Debug\State.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\State\bin\Debug\State.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\State\bin\Debug\State.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\State\obj\Debug\State.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\State\obj\Debug\State.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\State\obj\Debug\State.pdb

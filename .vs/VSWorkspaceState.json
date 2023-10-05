@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ChainOfResponsibility"
+    "\\ChainOfResponsibility",
+    "\\Memento"
   ],
-  "SelectedNode": "\\ChainOfResponsibility\\Program.cs",
+  "SelectedNode": "\\Memento\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
