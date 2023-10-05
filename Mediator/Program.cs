@@ -20,10 +20,11 @@ namespace Mediator
             Student Aysenur = new Student(mediator, "Aysenur");
 
             mediator.Students = new List<Student> { Ugur, Aysenur};
+
             Engin.SendNewImageUrl("slide1.jpg");
+
             Engin.ReviceQuestion("is it true", Ugur);
 
-            
 
             Console.ReadLine();
         }

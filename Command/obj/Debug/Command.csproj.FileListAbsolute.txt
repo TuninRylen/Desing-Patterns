@@ -1,0 +1,7 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\Command\bin\Debug\Command.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\Command\bin\Debug\Command.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Command\bin\Debug\Command.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\Command\obj\Debug\Command.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\Command\obj\Debug\Command.pdb
