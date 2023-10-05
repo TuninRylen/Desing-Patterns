@@ -1,0 +1,10 @@
+C:\Users\ugrst\source\repos\Desing-Patterns\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\ugrst\source\repos\Desing-Patterns\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\source\repos\Desing-Patterns\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\ugrst\source\repos\Desing-Patterns\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\ugrst\source\repos\Desing-Patterns\DependencyInjection\bin\Debug\Ninject.dll
+C:\Users\ugrst\source\repos\Desing-Patterns\DependencyInjection\bin\Debug\Ninject.xml
+C:\Users\ugrst\source\repos\Desing-Patterns\DependencyInjection\obj\Debug\DependencyInjection.csproj.CopyComplete
